@@ -1,0 +1,6 @@
+[submodule "blog_web"]
+	path = blog_web
+	url = ./blog_web/
+[submodule "backend_BLOG"]
+	path = backend_BLOG
+	url = ./backend_BLOG/
